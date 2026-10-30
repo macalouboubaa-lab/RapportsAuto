@@ -1,0 +1,340 @@
+Le chemin d'accŠs sp‚cifi‚ est introuvable.
+Le chemin d'accŠs sp‚cifi‚ est introuvable.
+OK NETTOYAGE : 4706 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 10478 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 13357 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 3518 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_ML
+OK NETTOYAGE : 7909 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 12622 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 5423 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 9987 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 14222 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 4221 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 8014 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 12349 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_TG
+Installed 11 packages in 3.09s
+OK NETTOYAGE : 3428 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BF (+ messages_erreur.xlsx)
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_ML
+Downloading pandas (10.4MiB)
+ Downloaded pandas
+Installed 11 packages in 1.47s
+OK NETTOYAGE : 8003 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BF (+ messages_erreur.xlsx)
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 11996 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BF (+ messages_erreur.xlsx)
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_TG
+Downloading playwright (37.0MiB)
+ Downloaded playwright
+Installed 4 packages in 696ms
+Installed 11 packages in 3.80s
+OK NETTOYAGE : 5330 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 9249 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 13010 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 4031 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 7730 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 11616 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 3008 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_ML
+OK NETTOYAGE : 6322 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\12H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 11489 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\15H\captures\groupe2_autres\INTOUCH_TG
+Installed 11 packages in 3.49s
+OK NETTOYAGE : 6531 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\11H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 11416 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\14H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 16697 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_BJ -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_BJ
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\17H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 4777 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\10H\captures\groupe2_autres\INTOUCH_TG
+Traceback (most recent call last):
+  File "C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\executer_rapport.py", line 54, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\executer_rapport.py", line 39, in main
+    df = nettoyer(args.fichier_brut, heure_actuelle)
+  File "C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\nettoyer_rapport.py", line 82, in nettoyer
+    df = pd.read_excel(chemin_brut)
+  File "C:\Users\OusseynouBoubacarCIS\AppData\Local\uv\cache\archive-v0\0guP7aXMokjWkOfZ\Lib\site-packages\pandas\io\excel\_base.py", line 513, in read_excel
+    io = ExcelFile(
+        io,
+    ...<2 lines>...
+        engine_kwargs=engine_kwargs,
+    )
+  File "C:\Users\OusseynouBoubacarCIS\AppData\Local\uv\cache\archive-v0\0guP7aXMokjWkOfZ\Lib\site-packages\pandas\io\excel\_base.py", line 1679, in __init__
+    ext = inspect_excel_format(
+        content_or_path=path_or_buffer, storage_options=storage_options
+    )
+  File "C:\Users\OusseynouBoubacarCIS\AppData\Local\uv\cache\archive-v0\0guP7aXMokjWkOfZ\Lib\site-packages\pandas\io\excel\_base.py", line 1511, in inspect_excel_format
+    with get_handle(
+         ~~~~~~~~~~^
+        content_or_path, "rb", storage_options=storage_options, is_text=False
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ) as handle:
+    ^
+  File "C:\Users\OusseynouBoubacarCIS\AppData\Local\uv\cache\archive-v0\0guP7aXMokjWkOfZ\Lib\site-packages\pandas\io\common.py", line 948, in get_handle
+    handle = open(handle, ioargs.mode)
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\OusseynouBoubacarCIS\\RapportsAuto\\files\\ListTransactions_GU3.xlsx'
+OK NETTOYAGE : 9450 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\13H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 14139 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI (+ messages_erreur.xlsx)
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\16H\captures\groupe2_autres\INTOUCH_TG
+OK NETTOYAGE : 3617 lignes écrites dans C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\ListTransactions_nettoye.xlsx
+OK : INTOUCH_SA -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA (+ messages_erreur.xlsx)
+OK : INTOUCH_SA_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe1_SN\INTOUCH_SA_PI
+OK : INTOUCH_BF -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_BF
+OK : INTOUCH_CI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI
+OK : INTOUCH_CI_PI -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_CI_PI
+OK : INTOUCH_GN -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_GN
+OK : INTOUCH_ML -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_ML
+OK : INTOUCH_TG -> C:\Users\OusseynouBoubacarCIS\RapportsAuto\files\09H\captures\groupe2_autres\INTOUCH_TG

@@ -1,0 +1,4 @@
+Hello Team,
+Veuillez trouver ci-joint le rapport QoS par produit **GU3 SN** de **09H**.
+Le fichier joint contient également l'<b>ensemble des SMS d'erreur par service</b>, afin de faciliter des analyses des incidents et le suivi des dysfonctionnements.
+⚠️ Attention aux produits **TOUCHPAYPOS**, **TOUCHPAYAPI** QoS impactée

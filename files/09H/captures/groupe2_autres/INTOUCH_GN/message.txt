@@ -1,0 +1,3 @@
+Hello Team,
+Veuillez trouver ci-joint le rapport QoS par produit **GU3 GN** de **09H**.
+⚠️ Attention aux produits **TOUCHAPI** QoS impactée
